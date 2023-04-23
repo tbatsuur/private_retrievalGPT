@@ -1,0 +1,4 @@
+langchain
+openai
+llama-index
+google-auth-oauthlib
